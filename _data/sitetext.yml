@@ -1,27 +1,27 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Selamat datang di Jasa Web Design Professional
+    text: Your Partners
+    button: Lebih Lanjut
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "JSWebDesign membantu anda dalam pembuatan dan pemeliharaan Website, E-Commerce dan SEO"
     section: services
     list:
       - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Membangun Bisnis anda dengan kami"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Maintenance Website"
+        desc: "Melindungi dan Merawat Website anda dari bug dan serangan hacker."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "SEO"
+        desc: "Kita menawarkan Jasa untuk meramaikan jumlah pengunjung Anda"
         icon: fab fa-markdown
 
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Hubungi Kita"
+    text: "Kita siap membantu anda dalam memenuhi kebutuhan anda 24/7"
     section: contact
     
 footer:
